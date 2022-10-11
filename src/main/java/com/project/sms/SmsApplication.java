@@ -21,10 +21,10 @@ public class SmsApplication implements CommandLineRunner{
 	@Override
 	public void run(String... args) throws Exception {
 		
-		// Student student1 = new Student("Ram", "Sureja", "ram@gmail.com");
+		// Student student1 = new Student("Yuji", "Itadori", "yuji@gmail.com");
 		// studentRepository.save(student1);
 		
-		// Student student2 = new Student("Sanjay", "Rana", "sanjay@gmail.com");
+		// Student student2 = new Student("Gojo", "Satoru", "gojo@gmail.com");
 		// studentRepository.save(student2);
 
 		// Student student3 = new Student("Tony", "Stark", "tony@gmail.com");
