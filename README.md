@@ -10,7 +10,7 @@ This project is a CRUD demo example base Spring Boot with thymeleaf. I hope pass
 
 ### Preparation
 
-- Please must install Java 1.8  or even higher version
+- Please must install Java 17
 - install Node.js / NPM
 - Clone Repository
 
